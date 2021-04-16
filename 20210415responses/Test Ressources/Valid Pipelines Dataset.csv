@@ -1,0 +1,40 @@
+Pipelines,Datasets
+BIDS App - fmriprep,openpain/BrainNetworkChange_Mano
+BIDS App - fmriprep,openpain/subacute_longitudinal_study
+BIDS App - fmriprep,openpain/thermal
+BIDS App - fmriprep,cneuromod
+BIDS App - fmriprep,mm_neo_atlas
+BIDS App - fmriprep,BigBrain_3DClassifiedVolumes
+BIDS app example,openpain/thermal
+BIDS app example,openpain/BrainNetworkChange_Mano
+BIDS app example,openpain/subacute_longitudinal_study
+BIDS app example,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset
+BIDS app example,cneuromod
+BIDS app example,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_
+Dipy Tracking and Connectome Generation,cneuromod
+MCFLIRT,openpain/thermal
+MCFLIRT,openpain/subacute_longitudinal_study
+MCFLIRT,openpain/BrainNetworkChange_Mano
+MCFLIRT,cneuromod
+fsl_bet,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_
+fsl_bet,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset
+fsl_bet,openpain/thermal
+fsl_bet,multicenter-phantom
+fsl_bet,openpain/BrainNetworkChange_Mano
+fsl_bet,cneuromod
+fsl_bet,openpain/subacute_longitudinal_study
+fsl_fast,cneuromod
+fsl_fast,BigBrain_3DClassifiedVolumes
+fsl_fast,mm_neo_atlas
+fslstats,openpain/thermal
+fslstats,openpain/placebo_1
+fslstats,preventad-open-bids
+fslstats,openpain/subacute_longitudinal_study
+fslstats,cneuromod
+fslstats,multicenter-phantom
+fslstats,openpain/BrainNetworkChange_Mano
+fslstats,openpain/cbp_resting
+fslstats,SIMON-dataset
+oneVoxel,BigBrain_3DClassifiedVolumes
+oneVoxel,mm_neo_atlas
+oneVoxel,cneuromod

@@ -1,0 +1,6 @@
+Pipelines/Datasets,multicenter-phantom,openpain/BrainNetworkChange_Mano,openpain/subacute_longitudinal_study,openpain/thermal
+fsl_bet,,x,x,x
+fslstats,,x,x,x
+MCFLIRT,,x,x,x
+BIDS App - fmriprep,,x,x,x
+BIDS app example,,x,x,x

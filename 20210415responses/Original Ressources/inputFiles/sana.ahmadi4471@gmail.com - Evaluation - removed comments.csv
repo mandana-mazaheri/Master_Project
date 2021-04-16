@@ -1,0 +1,7 @@
+Pipelines/Datasets,cneuromod,mm_neo_atlas,BigBrain_3DClassifiedVolumes,BigBrain,visual-working-memory
+BIDS App - fmriprep,X,X,X,X,X
+Dipy Tracking and Connectome Generation,X,,,,
+oneVoxel,X,X,X,X,X
+fsl_fast,X,X,X,X,X
+fsl_first,X,,,,
+SPARK (stage 1 of 3),X,X,X,X,X

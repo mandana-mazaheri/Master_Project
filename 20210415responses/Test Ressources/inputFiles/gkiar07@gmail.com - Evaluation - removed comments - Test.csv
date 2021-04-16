@@ -1,0 +1,4 @@
+Pipelines/Datasets,cneuromod,Khanlab/BigBrainMRICoreg,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset
+fsl_bet,x,,x,x
+BIDS app example,x,,x,x
+MCFLIRT,x,,,

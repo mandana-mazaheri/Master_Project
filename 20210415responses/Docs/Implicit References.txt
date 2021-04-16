@@ -1,0 +1,7 @@
+#Important: https://towardsdatascience.com/alternating-least-square-for-implicit-dataset-with-code-8e7999277f4b
+#http://ethen8181.github.io/machine-learning/recsys/1_ALSWR.html
+#https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe
+#https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1
+https://www.benfrederickson.com/fast-implicit-matrix-factorization/
+https://medium.com/analytics-vidhya/implementation-of-a-movies-recommender-from-implicit-feedback-6a810de173ac
+

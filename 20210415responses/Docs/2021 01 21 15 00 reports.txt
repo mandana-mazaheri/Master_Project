@@ -1,0 +1,65 @@
+Experts have commented on  (32, 22)  Pipelines/Datasets
+
+Experts have commented on these Pipelines : 
+
+['ApplyTOPUP', 'ApplyWarp', 'BIDS App - FSL Diffusion Preprocessing', 'BIDS App - FreeSurfer 6.0', 'BIDS App - fmriprep', 
+'BIDS App - ndmg', 'BIDS app example', 'BrainExtraction', 'ConcatTransfo', 'CorticalThickness', 'DTIFit', 
+'Dipy Tracking and Connectome Generation', 'FLIRT', 'FNIRT', 'FreeSurfer-Recon-all', 'FreeSurferPipelineBatch-CentOS7', 
+'FslBet601', 'ICA_AROMA', 'MCFLIRT', 'MRIQC', 'PreFreeSurferPipelineBatch', 'SPARK (stage 1 of 3)', 'TOPUP', 'fsl_anat', 
+'fsl_bet', 'fsl_fast', 'fsl_first', 'fsl_probtrackx2', 'fslstats', 'mask2boundary', 'ndmg', 'oneVoxel']
+
+Experts have commented on these Datasets : 
+
+['multicenter-phantom', 'cneuromod', 'preventad-open-bids', 'Learning_Naturalistic_Structure__Processed_fMRI_dataset', 'BigBrain', 
+'Khanlab/BigBrainMRICoreg', 'SIMON-dataset', 'Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_', 
+'Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset', 'openpain/thermal', 'openpain/cbp_resting', 
+'openpain/placebo_1', 'Khanlab/BigBrainHippoUnfold', 'preventad-open', 'BigBrain_3DClassifiedVolumes', 'mm_neo_atlas', 'visual-working-memory', 
+'openpain/BrainNetworkChange_Mano', 'openpain/subacute_longitudinal_study', 'openpain/placebo_predict_tetreault', 'Khanlab/HCPUR100-Template', 
+'MRI_and_unbiased_averages_of_wild_muskrats__Ondatra_zibethicus__and_red_squirrels__Tamiasciurus_hudsonicus_']
+
+
+*****************************
+
+Experts are confident on  (64, 42)  Pipelines/Datasets
+
+Experts confidency reduced to  (32, 22)  Pipelines/Datasets
+
+Experts are confident on these Pipelines
+['ApplyTOPUP ', 'ApplyWarp ', 'BIDS App - FSL Diffusion Preprocessing ', 'BIDS App - FreeSurfer 6.0 ', 'BIDS App - fmriprep ', 'BIDS App - ndmg ', 
+'BIDS app example ', 'BrainExtraction ', 'ConcatTransfo ', 'CorticalThickness ', 'DTIFit ', 'Dipy Tracking and Connectome Generation ', 'FLIRT ', 
+'FNIRT ', 'FreeSurfer-Recon-all ', 'FreeSurferPipelineBatch-CentOS7 ', 'FslBet601', 'ICA_AROMA ', 'MCFLIRT ', 'MRIQC ', 'PreFreeSurferPipelineBatch ', 
+'SPARK (stage 1 of 3) ', 'TOPUP ', 'fsl_anat ', 'fsl_bet ', 'fsl_fast ', 'fsl_first ', 'fsl_probtrackx2 ', 'fslstats ', 'mask2boundary ', 'ndmg ', 'oneVoxel ']
+
+Experts are confident on these Datasets
+Index(['multicenter-phantom', 'openpain/BrainNetworkChange_Mano',
+       'openpain/subacute_longitudinal_study', 'openpain/thermal',
+       'openpain/cbp_resting', 'openpain/placebo_predict_tetreault',
+       'openpain/placebo_1', 'cneuromod', 'Khanlab/BigBrainHippoUnfold',
+       'Khanlab/HCPUR100-Template', 'Khanlab/BigBrainMRICoreg', 'mm_neo_atlas',
+       'MRI_and_unbiased_averages_of_wild_muskrats__Ondatra_zibethicus__and_red_squirrels__Tamiasciurus_hudsonicus_',
+       'preventad-open-bids', 'preventad-open', 'SIMON-dataset',
+       'Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_',
+       'BigBrain_3DClassifiedVolumes',
+       'Learning_Naturalistic_Structure__Processed_fMRI_dataset', 'BigBrain',
+       'Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset',
+       'visual-working-memory'],
+      dtype='object')
+
+Experts confidency reduced to  (32, 22)  Pipelines/Datasets
+
+
+These Rows are removed 
+['AQUA ', 'BEDPOSTX5 ', 'BEst ', 'BEst - cMEM ', 'BEst - wMEM ', 'CompositeTransformUtil ', 'CreaPhase1D ', 'CreaPhase3Wires ', 'CreaPhaseCircle ', 
+'DistanceMap ', 'GateCLforOpenDose ', 'LaplacianThickness ', 'PostFreeSurferPipelineBatch-CentOS7 ', 'SPARK (stage 2 of 3) ', 'SPARK (stage 3 of 3) ', 
+'animaMSExamPreparation ', 'animaMusicLesionSegmentation_v3 ', 'blast_formatter ', 'blastdbcheck ', 'blastn ', 'blastp ', 'imputePrepSanger ', 
+'makeblastdb ', 'pcev ', 'qeeg ', 'rvtest ', 'shape_group_run ', 'spark ', 'spark parallel (stage 1 of 3) ', 'spark parallel (stage 2 of 3) ', 
+'spark parallel (stage 3 of 3) ', 'workflow generated from dataset:5c0c06e6f6f108004b490e2a ']
+
+These Columns are removed 
+['celltypes', 'CHBMP', 'Multimodal_data_with_wide_field_GCaMP_imaging', 'Brainspan', 'braincode_fBIRN', 'BigBrain_3DSurfaces', 
+'VFA_T1_mapping___RTHawk__open__vs_Siemens__commercial_', 'braincode_Mouse_Image', 'Reusing-Neuro-Data', 'mcgill-emc-rna-seq-experiment', 
+'braincode_NDD_Priority_Setting_Partnership ', 'Intracellular_Recordings_of_Murine_Neocortical_Neurons', 'nhpatlas', '1000GenomesProject', 
+'Multi-model_functionalization_of_disease-associated_PTEN_missense_mutations', 'PERFORM_Dataset__one_control_subject', 
+'Systematic_phenomics_analysis_of_autism-associated_genes', 'refseq/refseq_Homo_sapiens', 'refseq/refseq_Callithrix_jacchus', 'refseq/refseq_Mus_musculus']
+
+

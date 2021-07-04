@@ -1,9 +1,0 @@
-Pipelines/Datasets,BigBrain,BigBrain_3DClassifiedVolumes,BigBrain_3DSurfaces,Brainspann,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,Khanlab/BigBrainHippoUnfold,Khanlab/BigBrainMRICoreg,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,SIMON-dataset,cneuromod,mm_neo_atlas,multicenter-phantom,openpain/BrainNetworkChange_Mano,openpain/cbp_resting,openpain/placebo_1,openpain/subacute_longitudinal_study,openpain/thermal,preventad-open,preventad-open-bids
-BIDS App - fmriprep,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,0.0,1,0,0,1,1,0.0,0
-BIDS app example,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,1,0.0,0.0,1,0,0,1,1,0.0,0
-Dipy Tracking and Connectome Generation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0.0,0.0,0,0,0,0,0,0.0,0
-MCFLIRT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0.0,0.0,1,0,0,1,1,0.0,0
-fsl_bet,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,1,0.0,1.0,1,0,0,1,1,0.0,0
-fsl_fast,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,0.0,0,0,0,0,0,0.0,0
-fslstats,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,0.0,1.0,1,1,1,1,1,0.0,1
-oneVoxel,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,0.0,0,0,0,0,0,0.0,0
